@@ -1,5 +1,7 @@
-# Projeto 3 Ciência dos dados
-* Aqui se encontra os arquivos utilizados no Projeto 3.
+# Projeto Ciência dos dados
+* Aqui se encontra os arquivos utilizados no Projeto.
+
+* O projeto consiste numa análise de predição de sucesso de um filme utilizando técnicas de Machine Learning afim de concluir como essa medição pode ser e feita e quão consiste nossa análise consegue ser.
 
 * Os arquivos CSV's são databases montados pelo site IMDB sobre várias variáveis dos filmes, entre eles budget, ganho, nota, etc.
 
